@@ -1,4 +1,4 @@
-class CoachingControllerController < ApplicationController
+class CoachingController < ApplicationController
 	def answer
 	end
 
